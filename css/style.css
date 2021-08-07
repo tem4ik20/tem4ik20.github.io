@@ -1,0 +1,10 @@
+body {
+  background: red;
+}
+
+.effects {
+  display: block;
+  text-align: center;
+  font-family: impact;
+  font-size: 100px;
+}
